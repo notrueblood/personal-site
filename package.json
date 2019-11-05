@@ -28,7 +28,7 @@
     "@babel/preset-env": "^7.7.1",
     "@babel/preset-react": "^7.7.0",
     "@babel/register": "^7.7.0",
-    "@babel/runtime": "^7.5.5",
+    "@babel/runtime": "^7.7.1",
     "@fortawesome/fontawesome": "^1.1.8",
     "@fortawesome/fontawesome-free-brands": "^5.0.13",
     "@fortawesome/fontawesome-free-regular": "^5.0.13",
